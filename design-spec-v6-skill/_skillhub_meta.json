@@ -1,0 +1,21 @@
+{
+  "name": "wawa2000c 设计规范 v6（琥珀主色）",
+  "slug": "design-spec-v6",
+  "version": "1.0.0",
+  "source": "skillhub",
+  "examples_zh": [
+    "按设计规范 v6 帮我生成一份 HTML 周报",
+    "用纸本美学风格做一个产品看板",
+    "生成符合琥珀主色规范的落地页",
+    "把这份数据做成 paper-50 基底的可视化报告"
+  ],
+  "examples_en": [
+    "Generate an HTML weekly report following design spec v6",
+    "Make a product dashboard in paper-aesthetic style",
+    "Create a landing page following the amber-primary spec",
+    "Build a paper-50 based visualization report from this data"
+  ],
+  "description_zh": "生成 HTML/UI 视觉产出物时强制遵循的 wawa2000c 设计规范 v6（纸本美学·琥珀主色·墨蓝辅色·paper-50 暖纸基底）",
+  "description_en": "Mandatory design system v6 for all HTML/UI outputs: paper aesthetic, amber primary, ink-blue accent, paper-50 base",
+  "iconSource": "letter:auto"
+}
